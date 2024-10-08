@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://veruwuritiko.pages.dev/sitemap.xml
